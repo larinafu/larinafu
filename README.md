@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @larinafu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... creating tools for crocheters
+- 🌱 I’m currently learning ... crochet
+- 💞️ I’m looking to collaborate on ... crochet
+- 📫 How to reach me ... larina.fu@yahoo.com
 
-<!---
-larinafu/larinafu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[My Crochet Pixel Generator Site 💞️](https://crochet-pixel-art.web.app)
